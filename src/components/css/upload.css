@@ -1,0 +1,55 @@
+.cool-form-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.cool-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #8a8a8a;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px #8a8a8a;
+}
+
+.cool-input {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.cool-button {
+    padding: 10px 20px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    color: black;
+}
+
+.cool-button:hover {
+    background-color: #4f4f4f;
+    color: #ffffff;
+}
+
+@media (max-width: 999px) {
+    .cool-form-container {
+        padding: 20px;
+    }
+
+    .cool-form {
+        padding: 10px;
+    }
+
+    .cool-button {
+        padding: 8px 16px;
+        font-size: 14px;
+    }
+}
