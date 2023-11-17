@@ -14,3 +14,6 @@ Puis, lancez les deux avec npm start dans le dossier de base, et dans le dossier
 PS: Il faut que le backend aile le port 4000 de disponible.
 
 Enjoy!
+
+
+<img width="1440" alt="test" src="https://github.com/nicocarr04/roofing-site/assets/77184162/984b5d37-10ff-4eb2-9906-f7b2749b7e91">
